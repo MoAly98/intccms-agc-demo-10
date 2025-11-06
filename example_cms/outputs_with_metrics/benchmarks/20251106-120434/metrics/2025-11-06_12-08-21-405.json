@@ -1,0 +1,20 @@
+{
+  "overall_rate_gbps": 2.4339500685535485,
+  "overall_rate_mbps": 304.2437585691935,
+  "compression_ratio": 2.5,
+  "total_events": 789020628,
+  "event_rate_wall_khz": 3497.4907990160846,
+  "event_rate_agg_khz": 55.69967218968859,
+  "event_rate_core_hz": 12632.539820032072,
+  "wall_time": 225.59619834367186,
+  "total_cpu_time": 14165.624266386032,
+  "num_chunks": 4348,
+  "avg_cpu_time_per_chunk": 3.257963262738278,
+  "total_bytes_compressed": 68636235303,
+  "total_bytes_uncompressed": 171590588257.5,
+  "avg_workers": 276.8636274923854,
+  "peak_workers": 383,
+  "total_cores": 276.8636274923854,
+  "core_efficiency": 0.22679738180525005,
+  "speedup_factor": 62.791945832377046
+}

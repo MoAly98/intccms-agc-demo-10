@@ -1,0 +1,18 @@
+{
+  "overall_rate_gbps": 1.6723118820929004,
+  "overall_rate_mbps": 209.03898526161257,
+  "compression_ratio": 2.5,
+  "total_events": 794088713,
+  "event_rate_wall_khz": 2400.2700165475753,
+  "event_rate_agg_khz": 67.12508625186257,
+  "event_rate_core_hz": null,
+  "wall_time": 330.8330760812387,
+  "total_cpu_time": 11829.984247922897,
+  "total_bytes_compressed": 69157010515,
+  "total_bytes_uncompressed": 172892526287.5,
+  "avg_workers": null,
+  "peak_workers": null,
+  "total_cores": null,
+  "core_efficiency": null,
+  "speedup_factor": null
+}

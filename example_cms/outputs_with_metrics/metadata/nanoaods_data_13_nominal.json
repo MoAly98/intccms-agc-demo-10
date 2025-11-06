@@ -1,0 +1,49 @@
+{
+    "data_13": {
+        "nominal": {
+            "files": [
+                {
+                    "path": "root://xcache//store/data/Run2018D/SingleMuon/NANOAOD/UL2018_MiniAODv2_NanoAODv9-v1/130000/02945FF5-75FA-D14B-ADDC-68A0F71E6F5E.root",
+                    "nevts": 520605
+                },
+                {
+                    "path": "root://xcache//store/data/Run2018D/SingleMuon/NANOAOD/UL2018_MiniAODv2_NanoAODv9-v1/130000/02E7A5CB-7E72-DD45-A973-BA4114267C73.root",
+                    "nevts": 2547911
+                },
+                {
+                    "path": "root://xcache//store/data/Run2018D/SingleMuon/NANOAOD/UL2018_MiniAODv2_NanoAODv9-v1/130000/0A93F19F-5BBA-6843-8119-70F471D6F6E3.root",
+                    "nevts": 3196063
+                },
+                {
+                    "path": "root://xcache//store/data/Run2018D/SingleMuon/NANOAOD/UL2018_MiniAODv2_NanoAODv9-v1/130000/0F0AE73A-83F7-1845-88E9-B63FFB7F6DDE.root",
+                    "nevts": 3158684
+                },
+                {
+                    "path": "root://xcache//store/data/Run2018D/SingleMuon/NANOAOD/UL2018_MiniAODv2_NanoAODv9-v1/130000/1505522E-F527-7E4B-804E-65E59D556FDE.root",
+                    "nevts": 2445521
+                },
+                {
+                    "path": "root://xcache//store/data/Run2018D/SingleMuon/NANOAOD/UL2018_MiniAODv2_NanoAODv9-v1/130000/195BC720-372C-6943-849A-A6D5A2CE81A8.root",
+                    "nevts": 2967929
+                },
+                {
+                    "path": "root://xcache//store/data/Run2018D/SingleMuon/NANOAOD/UL2018_MiniAODv2_NanoAODv9-v1/130000/1E79A831-4CBC-7444-87DB-2C62FE2EA5E2.root",
+                    "nevts": 3081455
+                },
+                {
+                    "path": "root://xcache//store/data/Run2018D/SingleMuon/NANOAOD/UL2018_MiniAODv2_NanoAODv9-v1/130000/2821DE77-84F3-D44B-A3D6-DC7AD1A3FCF2.root",
+                    "nevts": 3075715
+                },
+                {
+                    "path": "root://xcache//store/data/Run2018D/SingleMuon/NANOAOD/UL2018_MiniAODv2_NanoAODv9-v1/130000/37C54F42-3F34-644D-A7D0-174DFF7B27D4.root",
+                    "nevts": 2994379
+                },
+                {
+                    "path": "root://xcache//store/data/Run2018D/SingleMuon/NANOAOD/UL2018_MiniAODv2_NanoAODv9-v1/130000/4D87A3A7-9B00-E840-8632-A85C8410DA0E.root",
+                    "nevts": 3182953
+                }
+            ],
+            "nevts_total": 27171215
+        }
+    }
+}

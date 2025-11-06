@@ -1,0 +1,49 @@
+{
+    "wjets_15": {
+        "nominal": {
+            "files": [
+                {
+                    "path": "root://xcache//store/mc/RunIISummer20UL17NanoAODv9/WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mc2017_realistic_v9_ext1-v3/2810000/0F447D58-1444-0C45-AA95-405AD7ACC8D6.root",
+                    "nevts": 171132
+                },
+                {
+                    "path": "root://xcache//store/mc/RunIISummer20UL17NanoAODv9/WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mc2017_realistic_v9_ext1-v3/2810000/148067B4-C9A2-4F4A-BB60-9D98B5C093CA.root",
+                    "nevts": 561554
+                },
+                {
+                    "path": "root://xcache//store/mc/RunIISummer20UL17NanoAODv9/WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mc2017_realistic_v9_ext1-v3/2810000/3D7C3D85-F088-0945-BB42-06F86CF93EBC.root",
+                    "nevts": 184984
+                },
+                {
+                    "path": "root://xcache//store/mc/RunIISummer20UL17NanoAODv9/WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mc2017_realistic_v9_ext1-v3/2810000/4ABE550F-6A54-BB44-8B88-FEE935147B12.root",
+                    "nevts": 62751
+                },
+                {
+                    "path": "root://xcache//store/mc/RunIISummer20UL17NanoAODv9/WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mc2017_realistic_v9_ext1-v3/2810000/C325807C-9C1B-7B4E-B6DE-839BAEC12BFD.root",
+                    "nevts": 26699
+                },
+                {
+                    "path": "root://xcache//store/mc/RunIISummer20UL17NanoAODv9/WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mc2017_realistic_v9_ext1-v3/2820000/5627C0BF-89CA-AF4C-8E80-8BD032D034D7.root",
+                    "nevts": 18342
+                },
+                {
+                    "path": "root://xcache//store/mc/RunIISummer20UL17NanoAODv9/WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mc2017_realistic_v9_ext1-v3/2820000/6446946F-37B8-7C4A-BAFE-187CAB5D1035.root",
+                    "nevts": 53295
+                },
+                {
+                    "path": "root://xcache//store/mc/RunIISummer20UL17NanoAODv9/WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mc2017_realistic_v9_ext1-v3/2820000/A436EB44-6A8F-6447-8271-25119C3ABC55.root",
+                    "nevts": 12473
+                },
+                {
+                    "path": "root://xcache//store/mc/RunIISummer20UL17NanoAODv9/WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mc2017_realistic_v9_ext1-v3/30000/C7F802BD-523D-A445-828C-938F95C6BC82.root",
+                    "nevts": 10181
+                },
+                {
+                    "path": "root://xcache//store/mc/RunIISummer20UL17NanoAODv9/WJetsToLNu_HT-2500ToInf_TuneCP5_13TeV-madgraphMLM-pythia8/NANOAODSIM/106X_mc2017_realistic_v9_ext1-v3/40000/1B050379-87BD-DD40-ACD8-CF98A592837A.root",
+                    "nevts": 64610
+                }
+            ],
+            "nevts_total": 1166021
+        }
+    }
+}

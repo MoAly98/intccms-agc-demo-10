@@ -1,0 +1,49 @@
+{
+    "data_0": {
+        "nominal": {
+            "files": [
+                {
+                    "path": "root://xcache//store/data/Run2016B/SingleMuon/NANOAOD/ver2_HIPM_UL2016_MiniAODv2_NanoAODv9-v2/40000/0ACEDA1E-BB5E-6E4C-A9E1-DD3B86880F97.root",
+                    "nevts": 2821816
+                },
+                {
+                    "path": "root://xcache//store/data/Run2016B/SingleMuon/NANOAOD/ver2_HIPM_UL2016_MiniAODv2_NanoAODv9-v2/40000/0D8E24E2-8EC8-504B-9303-EE83D73A7052.root",
+                    "nevts": 1575420
+                },
+                {
+                    "path": "root://xcache//store/data/Run2016B/SingleMuon/NANOAOD/ver2_HIPM_UL2016_MiniAODv2_NanoAODv9-v2/40000/0E8EBCC8-7DD0-7941-A1F1-0B5BC6A91C7F.root",
+                    "nevts": 2763389
+                },
+                {
+                    "path": "root://xcache//store/data/Run2016B/SingleMuon/NANOAOD/ver2_HIPM_UL2016_MiniAODv2_NanoAODv9-v2/50000/19EAAA0F-021A-8642-8C61-8873FC425239.root",
+                    "nevts": 1227743
+                },
+                {
+                    "path": "root://xcache//store/data/Run2016B/SingleMuon/NANOAOD/ver2_HIPM_UL2016_MiniAODv2_NanoAODv9-v2/50000/46CA2F1A-29AC-C248-8B21-7A7D23EE8E36.root",
+                    "nevts": 1595533
+                },
+                {
+                    "path": "root://xcache//store/data/Run2016B/SingleMuon/NANOAOD/ver2_HIPM_UL2016_MiniAODv2_NanoAODv9-v2/50000/6BFE80C2-306D-5B44-8042-F5C67EB81CBC.root",
+                    "nevts": 2472521
+                },
+                {
+                    "path": "root://xcache//store/data/Run2016B/SingleMuon/NANOAOD/ver2_HIPM_UL2016_MiniAODv2_NanoAODv9-v2/50000/711EF715-D0A9-1842-8117-43C45923348C.root",
+                    "nevts": 2640446
+                },
+                {
+                    "path": "root://xcache//store/data/Run2016B/SingleMuon/NANOAOD/ver2_HIPM_UL2016_MiniAODv2_NanoAODv9-v2/50000/8AAF731C-C771-224C-930A-CD8C588EBA8D.root",
+                    "nevts": 1742051
+                },
+                {
+                    "path": "root://xcache//store/data/Run2016B/SingleMuon/NANOAOD/ver2_HIPM_UL2016_MiniAODv2_NanoAODv9-v2/50000/A576B551-8E49-F942-829D-6D0E4655881D.root",
+                    "nevts": 150361
+                },
+                {
+                    "path": "root://xcache//store/data/Run2016B/SingleMuon/NANOAOD/ver2_HIPM_UL2016_MiniAODv2_NanoAODv9-v2/50000/B0D5F476-0C26-A740-8BC1-3A5A544B124D.root",
+                    "nevts": 1881919
+                }
+            ],
+            "nevts_total": 18871199
+        }
+    }
+}
